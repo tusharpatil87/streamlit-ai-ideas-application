@@ -37,13 +37,13 @@ To set up the project, follow these steps:
 
 ## Running the Application
 
-To run the Streamlit application, execute the following command in your terminal:
+To run the Streamlit application, execute the following command in your terminal:         
 
 ```
 streamlit run src/app.py
 ```
 
-Once the application is running, open your web browser and go to `http://localhost:8501` to access the app.
+Once the application is running, open your web browser and go to `http://localhost:port` to access the app.
 
 ## Usage
 
